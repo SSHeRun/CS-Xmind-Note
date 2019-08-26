@@ -7,6 +7,8 @@
 
 # 其他专业课程笔记
 
+- [数据库](https://github.com/SSHeRun/CS-Xmind-Note/blob/master/%E6%95%B0%E6%8D%AE%E5%BA%93/%E6%95%B0%E6%8D%AE%E5%BA%93.md)
+
 - [信息安全](https://github.com/SSHeRun/CS-Xmind-Note/blob/master/%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8/README.md)
 
 # 每个文件夹内都有Xmind格式文件，以及png格式图片。
